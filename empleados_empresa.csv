@@ -1,0 +1,201 @@
+EmpleadoID,Genero,Departamento,RolTrabajo,NivelEducacion,Edad,SalarioMensual,AnosEnEmpresa,ViajaNegocio,Renuncia,GrupoEdad,ViajaFrecuente
+1,Masculino,Ventas,Analista Sr,Secundaria,38.2,36160.0,3,Frecuentemente,1,Adulto Joven,1
+2,Femenino,Marketing,Supervisor,Universitario,32.2,74817.0,6,No,0,Adulto Joven,0
+3,Masculino,Ventas,Gerente,Posgrado,22.0,82242.0,11,No,0,Joven,0
+4,Masculino,Marketing,Coordinador,Técnico,42.1,52216.0,7,Raramente,0,Adulto,0
+5,Femenino,Operaciones,Analista Jr,Universitario,28.3,26751.0,1,No,1,Joven,0
+6,Masculino,TI,Analista Jr,Posgrado,43.2,28190.0,0,Frecuentemente,1,Adulto,1
+7,Femenino,RRHH,Supervisor,Universitario,23.7,67761.0,4,Raramente,0,Joven,0
+8,Masculino,TI,Coordinador,Técnico,43.7,58904.0,1,Raramente,1,Adulto,0
+9,Masculino,Marketing,Analista Jr,Técnico,22.0,24183.0,1,No,1,Joven,0
+10,Femenino,TI,Gerente,Universitario,33.9,94423.0,5,No,0,Adulto Joven,0
+11,Masculino,Operaciones,Analista Sr,Técnico,42.1,37333.0,4,No,1,Adulto,0
+12,Masculino,TI,Coordinador,Secundaria,25.9,56821.0,0,Raramente,1,Joven,0
+13,Femenino,Ventas,Analista Jr,Posgrado,48.3,23993.0,2,Raramente,1,Adulto,0
+14,Femenino,Marketing,Analista Jr,Universitario,30.7,23624.0,0,No,1,Adulto Joven,0
+15,Femenino,Ventas,Analista Sr,Posgrado,22.0,38861.0,10,Frecuentemente,1,Joven,1
+16,Femenino,Marketing,Supervisor,Universitario,34.3,75652.0,3,No,0,Adulto Joven,0
+17,Femenino,Operaciones,Supervisor,Secundaria,46.0,61071.0,3,No,0,Adulto,0
+18,Masculino,TI,Analista Sr,Universitario,41.3,35487.0,2,Raramente,1,Adulto,0
+19,Femenino,TI,Coordinador,Técnico,52.2,47518.0,1,Raramente,0,Senior,0
+20,Femenino,Ventas,Analista Sr,Universitario,43.9,39609.0,1,Raramente,1,Adulto,0
+21,Femenino,Ventas,Coordinador,Técnico,42.4,53982.0,4,No,0,Adulto,0
+22,Masculino,Operaciones,Coordinador,Secundaria,38.5,49690.0,2,Raramente,1,Adulto Joven,0
+23,Femenino,TI,Analista Jr,Posgrado,42.3,27525.0,8,Raramente,0,Adulto,0
+24,Femenino,RRHH,Coordinador,Universitario,37.5,57476.0,8,No,0,Adulto Joven,0
+25,Masculino,RRHH,Analista Sr,Posgrado,35.3,38654.0,2,Raramente,0,Adulto Joven,0
+26,Masculino,Ventas,Analista Sr,Universitario,53.1,39806.0,3,Frecuentemente,0,Senior,1
+27,Femenino,TI,Supervisor,Posgrado,26.0,64659.0,4,No,0,Joven,0
+28,Femenino,Operaciones,Supervisor,Posgrado,37.9,70146.0,7,Raramente,0,Adulto Joven,0
+29,Femenino,TI,Analista Jr,Técnico,45.9,22774.0,0,Raramente,1,Adulto,0
+30,Masculino,TI,Supervisor,Técnico,51.8,60185.0,6,Frecuentemente,0,Senior,1
+31,Masculino,RRHH,Coordinador,Secundaria,27.6,48985.0,12,Frecuentemente,0,Joven,1
+32,Femenino,Ventas,Coordinador,Universitario,35.7,51525.0,3,Frecuentemente,1,Adulto Joven,1
+33,Masculino,RRHH,Analista Sr,Posgrado,33.5,40660.0,1,No,0,Adulto Joven,0
+34,Masculino,Marketing,Coordinador,Universitario,37.7,50920.0,4,Frecuentemente,0,Adulto Joven,1
+35,Masculino,Marketing,Gerente,Universitario,45.2,102084.0,1,No,0,Adulto,0
+36,Masculino,RRHH,Analista Sr,Secundaria,22.0,39083.0,17,Frecuentemente,1,Joven,1
+37,Masculino,RRHH,Gerente,Universitario,33.1,79597.0,2,Frecuentemente,0,Adulto Joven,1
+38,Masculino,RRHH,Analista Sr,Técnico,39.7,34500.0,1,Frecuentemente,1,Adulto Joven,1
+39,Masculino,Operaciones,Supervisor,Universitario,37.4,68464.0,1,Raramente,0,Adulto Joven,0
+40,Femenino,Operaciones,Supervisor,Posgrado,28.4,60541.0,0,No,0,Joven,0
+41,Femenino,Marketing,Coordinador,Universitario,26.7,54838.0,4,No,0,Joven,0
+42,Masculino,TI,Gerente,Universitario,44.3,87767.0,1,No,0,Adulto,0
+43,Masculino,Operaciones,Coordinador,Técnico,22.0,45958.0,1,Raramente,1,Joven,0
+44,Masculino,Operaciones,Analista Sr,Secundaria,40.6,40758.0,2,Raramente,1,Adulto,0
+45,Femenino,RRHH,Coordinador,Posgrado,47.8,48689.0,7,Frecuentemente,0,Adulto,1
+46,Femenino,RRHH,Analista Sr,Técnico,31.2,41067.0,4,No,0,Adulto Joven,0
+47,Femenino,Ventas,Analista Jr,Técnico,45.5,25883.0,0,Raramente,1,Adulto,0
+48,Masculino,Operaciones,Supervisor,Universitario,39.9,62964.0,1,No,1,Adulto Joven,0
+49,Femenino,Operaciones,Analista Sr,Universitario,24.8,39635.0,5,Raramente,0,Joven,0
+50,Masculino,Ventas,Analista Sr,Universitario,22.0,39627.0,3,Raramente,1,Joven,0
+51,Femenino,RRHH,Gerente,Universitario,25.4,94579.0,3,Raramente,0,Joven,0
+52,Masculino,Ventas,Gerente,Técnico,44.8,99278.0,0,Raramente,0,Adulto,0
+53,Femenino,Ventas,Supervisor,Universitario,38.5,74097.0,6,Raramente,0,Adulto Joven,0
+54,Femenino,TI,Coordinador,Posgrado,22.0,50469.0,9,Raramente,0,Joven,0
+55,Femenino,RRHH,Coordinador,Técnico,32.8,55301.0,1,No,1,Adulto Joven,0
+56,Femenino,Operaciones,Supervisor,Universitario,29.4,65889.0,1,No,0,Joven,0
+57,Masculino,Ventas,Analista Sr,Universitario,55.9,41574.0,2,Raramente,0,Senior,0
+58,Femenino,Operaciones,Analista Jr,Universitario,22.0,24628.0,4,Raramente,0,Joven,0
+59,Femenino,Operaciones,Analista Sr,Técnico,37.9,38142.0,3,No,1,Adulto Joven,0
+60,Masculino,RRHH,Coordinador,Técnico,38.1,50272.0,1,No,1,Adulto Joven,0
+61,Masculino,Operaciones,Analista Sr,Universitario,51.2,34921.0,1,No,0,Senior,0
+62,Femenino,Ventas,Analista Sr,Técnico,34.6,36860.0,3,Raramente,0,Adulto Joven,0
+63,Femenino,Ventas,Analista Sr,Universitario,47.2,35302.0,2,Raramente,1,Adulto,0
+64,Femenino,RRHH,Analista Jr,Universitario,41.0,25153.0,9,Raramente,1,Adulto,0
+65,Masculino,RRHH,Supervisor,Universitario,25.5,64347.0,2,No,0,Joven,0
+66,Femenino,Ventas,Gerente,Secundaria,24.8,79240.0,5,Frecuentemente,1,Joven,1
+67,Masculino,TI,Analista Jr,Universitario,25.6,22242.0,2,No,1,Joven,0
+68,Femenino,Ventas,Analista Jr,Técnico,22.0,23759.0,2,Raramente,1,Joven,0
+69,Femenino,RRHH,Coordinador,Secundaria,22.0,54285.0,4,No,0,Joven,0
+70,Masculino,TI,Analista Jr,Universitario,42.4,24863.0,0,No,1,Adulto,0
+71,Masculino,Ventas,Analista Sr,Universitario,29.0,37436.0,4,No,0,Joven,0
+72,Masculino,Operaciones,Analista Sr,Posgrado,22.0,43591.0,1,Raramente,0,Joven,0
+73,Masculino,Ventas,Analista Jr,Posgrado,33.3,27960.0,4,No,0,Adulto Joven,0
+74,Femenino,RRHH,Analista Jr,Posgrado,35.6,27275.0,3,Raramente,0,Adulto Joven,0
+75,Masculino,Marketing,Analista Jr,Técnico,30.8,23057.0,0,Frecuentemente,1,Adulto Joven,1
+76,Masculino,Marketing,Supervisor,Técnico,38.6,63871.0,8,Raramente,1,Adulto Joven,0
+77,Masculino,Marketing,Analista Sr,Universitario,32.0,37354.0,6,No,0,Adulto Joven,0
+78,Masculino,Ventas,Analista Jr,Técnico,56.8,22528.0,0,Raramente,0,Senior,0
+79,Masculino,RRHH,Analista Jr,Técnico,39.7,27417.0,11,No,1,Adulto Joven,0
+80,Masculino,RRHH,Gerente,Posgrado,38.6,103039.0,1,Raramente,0,Adulto Joven,0
+81,Masculino,Marketing,Analista Jr,Universitario,33.9,26075.0,1,Raramente,0,Adulto Joven,0
+82,Masculino,RRHH,Coordinador,Universitario,36.9,52752.0,8,Raramente,0,Adulto Joven,0
+83,Femenino,Ventas,Analista Jr,Técnico,36.5,23540.0,4,No,1,Adulto Joven,0
+84,Femenino,RRHH,Analista Sr,Posgrado,32.5,41774.0,9,Raramente,0,Adulto Joven,0
+85,Femenino,Marketing,Analista Jr,Universitario,26.8,28268.0,3,No,1,Joven,0
+86,Masculino,TI,Analista Jr,Posgrado,41.2,26816.0,1,Raramente,0,Adulto,0
+87,Masculino,Operaciones,Analista Sr,Secundaria,22.0,41237.0,1,No,1,Joven,0
+88,Masculino,Marketing,Analista Jr,Secundaria,42.4,26833.0,0,Frecuentemente,0,Adulto,1
+89,Femenino,Ventas,Supervisor,Universitario,22.5,68459.0,1,No,0,Joven,0
+90,Masculino,RRHH,Analista Sr,Universitario,43.1,41142.0,2,No,0,Adulto,0
+91,Femenino,Ventas,Supervisor,Secundaria,30.8,73683.0,1,Raramente,0,Adulto Joven,0
+92,Masculino,Marketing,Coordinador,Universitario,48.5,57966.0,8,Frecuentemente,1,Adulto,1
+93,Femenino,Ventas,Analista Sr,Técnico,28.6,36331.0,1,No,1,Joven,0
+94,Masculino,Ventas,Coordinador,Técnico,47.6,59199.0,6,Frecuentemente,1,Adulto,1
+95,Masculino,RRHH,Analista Jr,Posgrado,60.0,23357.0,3,Frecuentemente,1,Senior,1
+96,Masculino,Ventas,Coordinador,Universitario,27.6,50754.0,7,Frecuentemente,0,Joven,1
+97,Femenino,TI,Analista Jr,Posgrado,38.3,22060.0,6,No,1,Adulto Joven,0
+98,Femenino,RRHH,Coordinador,Técnico,32.9,59110.0,4,Raramente,1,Adulto Joven,0
+99,Femenino,Operaciones,Analista Jr,Técnico,22.0,22580.0,4,No,1,Joven,0
+100,Femenino,TI,Coordinador,Universitario,43.0,58098.0,1,No,0,Adulto,0
+101,Masculino,Operaciones,Analista Sr,Técnico,52.6,40459.0,4,Raramente,0,Senior,0
+102,Masculino,TI,Coordinador,Universitario,22.6,49768.0,0,No,1,Joven,0
+103,Femenino,TI,Coordinador,Posgrado,40.3,54585.0,3,Frecuentemente,0,Adulto,1
+104,Femenino,Ventas,Supervisor,Técnico,54.7,62220.0,13,Raramente,0,Senior,0
+105,Femenino,Marketing,Analista Jr,Universitario,50.9,22069.0,3,Raramente,0,Senior,0
+106,Femenino,Marketing,Coordinador,Técnico,36.2,52745.0,15,No,0,Adulto Joven,0
+107,Masculino,Ventas,Analista Jr,Universitario,40.1,24224.0,3,Raramente,1,Adulto,0
+108,Femenino,TI,Analista Jr,Posgrado,33.3,22443.0,7,No,1,Adulto Joven,0
+109,Femenino,Ventas,Analista Jr,Posgrado,22.0,26554.0,4,No,1,Joven,0
+110,Femenino,RRHH,Coordinador,Universitario,22.0,48345.0,3,Frecuentemente,0,Joven,1
+111,Masculino,Operaciones,Analista Sr,Posgrado,40.7,34235.0,5,Raramente,0,Adulto,0
+112,Femenino,Marketing,Coordinador,Universitario,30.2,52669.0,4,No,0,Adulto Joven,0
+113,Femenino,Operaciones,Gerente,Universitario,34.3,99703.0,9,No,0,Adulto Joven,0
+114,Masculino,TI,Analista Sr,Técnico,30.9,39990.0,2,Raramente,1,Adulto Joven,0
+115,Femenino,TI,Coordinador,Secundaria,47.1,58537.0,0,Raramente,0,Adulto,0
+116,Femenino,Marketing,Supervisor,Técnico,41.7,65146.0,2,No,0,Adulto,0
+117,Femenino,TI,Analista Jr,Posgrado,28.1,24437.0,11,Raramente,0,Joven,0
+118,Femenino,Ventas,Analista Jr,Universitario,36.7,24266.0,4,Frecuentemente,1,Adulto Joven,1
+119,Femenino,Operaciones,Analista Jr,Universitario,32.9,26407.0,4,Frecuentemente,1,Adulto Joven,1
+120,Masculino,Ventas,Supervisor,Universitario,29.6,64979.0,1,No,0,Joven,0
+121,Femenino,Ventas,Gerente,Universitario,33.8,86368.0,17,No,0,Adulto Joven,0
+122,Masculino,TI,Analista Sr,Posgrado,44.5,43170.0,1,Raramente,0,Adulto,0
+123,Femenino,Marketing,Analista Jr,Universitario,36.4,22370.0,3,Raramente,0,Adulto Joven,0
+124,Femenino,Operaciones,Analista Sr,Universitario,32.1,42354.0,4,Raramente,0,Adulto Joven,0
+125,Femenino,RRHH,Coordinador,Secundaria,28.3,58706.0,1,No,1,Joven,0
+126,Femenino,TI,Analista Sr,Técnico,44.4,43387.0,1,No,0,Adulto,0
+127,Masculino,Ventas,Coordinador,Secundaria,30.1,55096.0,4,Raramente,0,Adulto Joven,0
+128,Femenino,Marketing,Supervisor,Universitario,41.3,72736.0,4,No,0,Adulto,0
+129,Masculino,RRHH,Supervisor,Técnico,43.1,69671.0,1,Raramente,0,Adulto,0
+130,Femenino,Marketing,Gerente,Universitario,36.9,99905.0,11,Frecuentemente,0,Adulto Joven,1
+131,Masculino,Marketing,Analista Jr,Técnico,46.2,25867.0,4,Raramente,1,Adulto,0
+132,Masculino,TI,Analista Jr,Posgrado,41.3,26519.0,3,No,1,Adulto,0
+133,Masculino,RRHH,Analista Jr,Técnico,22.0,23381.0,11,No,1,Joven,0
+134,Femenino,Marketing,Analista Sr,Técnico,43.8,40002.0,1,No,0,Adulto,0
+135,Masculino,Operaciones,Supervisor,Técnico,36.8,77297.0,1,Frecuentemente,1,Adulto Joven,1
+136,Femenino,RRHH,Supervisor,Técnico,42.1,76492.0,2,Raramente,0,Adulto,0
+137,Masculino,RRHH,Supervisor,Posgrado,37.1,62565.0,1,Frecuentemente,1,Adulto Joven,1
+138,Masculino,TI,Gerente,Universitario,50.0,81375.0,8,No,0,Senior,0
+139,Masculino,Operaciones,Analista Jr,Universitario,33.8,25244.0,12,Frecuentemente,1,Adulto Joven,1
+140,Femenino,Operaciones,Coordinador,Técnico,29.7,51150.0,7,No,0,Joven,0
+141,Masculino,Ventas,Analista Sr,Técnico,24.0,35883.0,5,No,1,Joven,0
+142,Masculino,RRHH,Analista Jr,Técnico,24.8,27887.0,1,Raramente,1,Joven,0
+143,Masculino,RRHH,Coordinador,Posgrado,27.5,56659.0,4,Raramente,0,Joven,0
+144,Masculino,TI,Analista Sr,Posgrado,40.7,34359.0,2,Frecuentemente,0,Adulto,1
+145,Femenino,Ventas,Analista Jr,Universitario,22.7,24984.0,2,Frecuentemente,1,Joven,1
+146,Femenino,Marketing,Supervisor,Universitario,29.5,63432.0,0,No,0,Joven,0
+147,Femenino,Ventas,Coordinador,Universitario,22.0,55274.0,6,No,0,Joven,0
+148,Masculino,TI,Analista Jr,Posgrado,47.2,24613.0,0,No,0,Adulto,0
+149,Masculino,TI,Analista Sr,Universitario,38.5,34596.0,4,Raramente,0,Adulto Joven,0
+150,Femenino,Ventas,Gerente,Universitario,42.8,100616.0,5,Raramente,0,Adulto,0
+151,Femenino,Operaciones,Coordinador,Posgrado,35.6,55675.0,7,Raramente,0,Adulto Joven,0
+152,Femenino,Ventas,Analista Jr,Universitario,39.5,23073.0,1,No,1,Adulto Joven,0
+153,Masculino,Ventas,Gerente,Posgrado,30.5,96834.0,3,No,0,Adulto Joven,0
+154,Masculino,RRHH,Analista Jr,Posgrado,33.1,22769.0,0,Frecuentemente,1,Adulto Joven,1
+155,Femenino,RRHH,Analista Jr,Universitario,30.9,26981.0,11,Raramente,0,Adulto Joven,0
+156,Masculino,Ventas,Analista Jr,Técnico,47.7,27355.0,3,Raramente,0,Adulto,0
+157,Masculino,TI,Gerente,Posgrado,30.9,91748.0,1,No,0,Adulto Joven,0
+158,Masculino,Ventas,Analista Sr,Secundaria,34.8,39365.0,0,Raramente,1,Adulto Joven,0
+159,Femenino,Marketing,Coordinador,Universitario,29.1,54835.0,6,Frecuentemente,1,Joven,1
+160,Femenino,TI,Gerente,Técnico,39.8,91549.0,4,Raramente,0,Adulto Joven,0
+161,Femenino,Marketing,Analista Sr,Técnico,30.9,41823.0,11,No,0,Adulto Joven,0
+162,Masculino,Ventas,Analista Jr,Secundaria,37.4,27686.0,6,Raramente,1,Adulto Joven,0
+163,Femenino,RRHH,Analista Sr,Universitario,39.4,35104.0,20,Raramente,0,Adulto Joven,0
+164,Masculino,Ventas,Coordinador,Universitario,51.4,49474.0,11,Raramente,0,Senior,0
+165,Masculino,Ventas,Analista Jr,Técnico,30.0,26992.0,0,Raramente,0,Adulto Joven,0
+166,Femenino,Operaciones,Analista Sr,Universitario,31.7,38536.0,5,Raramente,1,Adulto Joven,0
+167,Masculino,RRHH,Analista Jr,Universitario,32.0,24747.0,1,No,1,Adulto Joven,0
+168,Femenino,Marketing,Analista Jr,Técnico,37.8,27106.0,0,Raramente,1,Adulto Joven,0
+169,Femenino,Operaciones,Supervisor,Universitario,27.8,66049.0,2,No,0,Joven,0
+170,Femenino,Ventas,Gerente,Universitario,42.4,85765.0,7,Frecuentemente,0,Adulto,1
+171,Masculino,TI,Coordinador,Técnico,32.1,54917.0,2,No,1,Adulto Joven,0
+172,Masculino,RRHH,Analista Sr,Técnico,22.0,33579.0,11,Frecuentemente,1,Joven,1
+173,Masculino,Ventas,Analista Jr,Universitario,22.0,26797.0,2,No,1,Joven,0
+174,Masculino,Marketing,Supervisor,Universitario,50.7,70401.0,4,No,0,Senior,0
+175,Femenino,Operaciones,Gerente,Técnico,42.9,85691.0,1,No,0,Adulto,0
+176,Masculino,TI,Analista Sr,Universitario,45.0,43086.0,0,No,0,Adulto,0
+177,Masculino,Ventas,Analista Jr,Universitario,22.0,22818.0,7,No,0,Joven,0
+178,Femenino,TI,Gerente,Universitario,25.3,97704.0,2,Frecuentemente,1,Joven,1
+179,Masculino,Ventas,Analista Jr,Posgrado,28.6,22328.0,1,Frecuentemente,1,Joven,1
+180,Masculino,TI,Gerente,Técnico,51.1,88010.0,0,Frecuentemente,0,Senior,1
+181,Masculino,Marketing,Coordinador,Secundaria,22.0,56449.0,5,Raramente,1,Joven,0
+182,Masculino,Marketing,Analista Sr,Universitario,22.0,40137.0,4,No,1,Joven,0
+183,Masculino,RRHH,Analista Jr,Posgrado,54.9,23635.0,1,Frecuentemente,1,Senior,1
+184,Femenino,Ventas,Analista Jr,Universitario,43.5,28095.0,0,No,0,Adulto,0
+185,Masculino,Operaciones,Analista Jr,Universitario,35.9,22083.0,14,Raramente,1,Adulto Joven,0
+186,Femenino,RRHH,Analista Sr,Secundaria,22.0,39251.0,4,Raramente,1,Joven,0
+187,Femenino,RRHH,Coordinador,Técnico,45.5,48518.0,3,No,1,Adulto,0
+188,Masculino,Ventas,Analista Sr,Universitario,32.8,40626.0,6,No,0,Adulto Joven,0
+189,Femenino,Ventas,Coordinador,Universitario,38.5,59166.0,1,Raramente,0,Adulto Joven,0
+190,Masculino,Marketing,Gerente,Técnico,33.3,99343.0,9,No,0,Adulto Joven,0
+191,Femenino,TI,Analista Jr,Posgrado,45.9,23474.0,2,No,0,Adulto,0
+192,Femenino,Ventas,Analista Sr,Técnico,27.5,37237.0,1,No,0,Joven,0
+193,Masculino,TI,Analista Sr,Técnico,42.4,41780.0,2,Frecuentemente,0,Adulto,1
+194,Femenino,Ventas,Supervisor,Universitario,26.3,60864.0,6,No,0,Joven,0
+195,Femenino,TI,Analista Sr,Posgrado,28.4,38411.0,1,No,0,Joven,0
+196,Masculino,RRHH,Analista Sr,Técnico,40.5,43127.0,6,Raramente,1,Adulto,0
+197,Masculino,Operaciones,Analista Jr,Secundaria,49.3,22612.0,11,No,1,Adulto,0
+198,Femenino,Ventas,Analista Sr,Posgrado,31.2,34644.0,5,No,0,Adulto Joven,0
+199,Masculino,Ventas,Analista Jr,Universitario,22.2,25758.0,2,Raramente,1,Joven,0
+200,Masculino,TI,Analista Sr,Técnico,32.5,36023.0,1,Frecuentemente,1,Adulto Joven,1
